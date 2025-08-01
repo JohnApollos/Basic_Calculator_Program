@@ -42,7 +42,7 @@ You need Python installed on your system. This code is compatible with Python 3.
 3.  **Run the script:** Execute the script using the Python interpreter:
 
     ```bash
-    python calculator.py
+    basic_calculator.py
     ```
 
 4.  **Follow the prompts:** The program will then guide you through entering the numbers and the operation.
